@@ -1,0 +1,14 @@
+Personal Information
+
+MALE
+Arshak
+Ashtarakic
+12/34/23
+
+
+Medical Condition
+
+[MEDICATIONS: , vat dex , lav dex ]
+[DIAGNOSES: , mernuma , lav klni ]
+[TREATMENTS: , tox hox uti , qich nsti ]
+
