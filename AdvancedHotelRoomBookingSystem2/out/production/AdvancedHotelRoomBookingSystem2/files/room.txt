@@ -1,0 +1,1 @@
+[{"id":100,"roomType":"SingleRoom"},{"id":101,"roomType":"DoubleRoom"},{"id":102,"roomType":"DeluxeRoom"}]

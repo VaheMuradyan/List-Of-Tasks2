@@ -1,0 +1,1 @@
+{"roomBooking":{"checkInDate":[2023,11,1],"checkOutDate":[2023,11,15],"customer":{"name":"Ruzanna","mail":"ruzanna@gmail.com"},"room":{"id":101,"roomType":"DoubleRoom"}},"bookingPeriod":14,"taxes":20.0,"serviceFees":10.0,"totalAmount":646.8000000000001}
